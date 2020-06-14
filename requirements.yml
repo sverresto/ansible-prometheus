@@ -1,0 +1,14 @@
+---
+- src: https://github.com/cloudalchemy/ansible-prometheus.git
+  scm: git
+  version: 2.15.5
+- src: https://github.com/cloudalchemy/ansible-node-exporter.git
+  scm: git
+  version: master
+- src: https://github.com/cloudalchemy/ansible-grafana.git
+  scm: git
+  version: master
+- src: https://github.com/ContentWise/ansible-statsd-exporter.git
+  scm: git
+  version: master
+
